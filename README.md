@@ -2,7 +2,6 @@
 
 A student in the 2024 cohort majoring in Data Science and Big Data Technology, currently enjoying Python and Go.
 
-- 🎓 2024 Cohort SCNU | Data Science and Big Data Technology Major
 - 💻 Enjoys working on small projects with Python and Go
 - 🤝 Open to communication and collaboration
 
@@ -11,7 +10,6 @@ A student in the 2024 cohort majoring in Data Science and Big Data Technology, c
 
 一名2024级数据科学与大数据技术专业的学生，目前主要喜欢 Python 和 Go 语言。
 
-- 🎓 2024级 SCNU | 数据科学与大数据技术专业
 - 💻 喜欢用 Python、Go 做些小项目
 - 🤝 欢迎交流与合作
 
