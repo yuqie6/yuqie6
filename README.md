@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi there, I'm yuqie6!
 
-<!--
-**yuqie6/yuqie6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A student in the 2024 cohort majoring in Data Science and Big Data Technology, currently enjoying Python and Go.
 
-Here are some ideas to get you started:
+- 🎓 2024 Cohort SCNU | Data Science and Big Data Technology Major
+- 💻 Enjoys working on small projects with Python and Go
+- 🤝 Open to communication and collaboration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> "The road ahead is long and arduous, but I will seek knowledge relentlessly."
+
+
+一名2024级数据科学与大数据技术专业的学生，目前主要喜欢 Python 和 Go 语言。
+
+- 🎓 2024级 SCNU | 数据科学与大数据技术专业
+- 💻 喜欢用 Python、Go 做些小项目
+- 🤝 欢迎交流与合作
+
+> “路漫漫其修远兮，吾将上下而求索。”
+
+---
+
+**联系方式：**
+- GitHub: [yuqie6](https://github.com/yuqie6)
+- email : 2140354088@qq.com
